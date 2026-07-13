@@ -38,10 +38,18 @@ Fallen Hazmat Infected ragdolls should immediately trigger accessible `[F]` and 
 * `BUG_04_hazmat_ragdoll_control_02.mp4` (Secondary physics reset control video)
 
 ---
+
 [LinkedIn Profile](https://www.linkedin.com/in/balazs-manual-qa-specialist/)
 
+
+
 [GitHub Profile](https://github.com/GhostHit-Fixer/)
- The fix is on the house. :)
+
+
+
+The fix is on the house. :)
+
+
 
 - GhostHit_Fixer™
 
