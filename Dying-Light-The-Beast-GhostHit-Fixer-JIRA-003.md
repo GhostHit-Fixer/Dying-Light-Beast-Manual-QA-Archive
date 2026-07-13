@@ -44,9 +44,9 @@ Projectiles should pass freely through the open space of the archway and registe
 * `BUG_03_invisible_wall_archway_1080p.mp4` (Control group stress-test video proof)
 
 ---
-[LinkedIn Profile](https://linkedin.com)
+[LinkedIn Profile](https://www.linkedin.com/in/balazs-manual-qa-specialist/)
 
-[GitHub Profile](https://github.com)
+[GitHub Profile](https://github.com/GhostHit-Fixer/)
 
  The fix is on the house. :)
 
