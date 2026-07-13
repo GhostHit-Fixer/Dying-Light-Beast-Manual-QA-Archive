@@ -39,6 +39,7 @@ The item spawn point should check the player's persistent inventory flag. If the
 
 ---
 [LinkedIn Profile](https://www.linkedin.com/in/balazs-manual-qa-specialist/)
+
 [GitHub Profile](https://github.com/GhostHit-Fixer/)
 
  The fix is on the house. :)
