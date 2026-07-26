@@ -12,7 +12,7 @@
 
 ## Details
 * **Title:** [AI/Combat] [Raycast Collapse] Sniper AI enters infinite firing loop bypassing reload scripts while damage registration completely fails.
-* **Severity:** Critical / Blocker
+* **Severity:** Major / High
 * **Reproducibility:** 100% (14-shot sequence verified via frame-by-frame analysis)
 
 ## Preconditions
