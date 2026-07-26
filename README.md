@@ -39,7 +39,7 @@ All test cycles were executed on a standardized, min-spec hardware configuration
 * 👉 [Open Bug Report](./Dying-Light-The-Beast-GhostHit-Fixer-JIRA-003.md)
 
 ### [JIRA-011] [Scripting/Inventory] Enemy Weapon Drops Runtime Interaction Lock
-* **Severity:** Major | **Reproducibility:** High (Regression from v1.5)
+* **Severity:** Major / Economy Blocker | **Reproducibility:** High (Regression from v1.5)
 * Drop scripts successfully instantiate 3D weapon meshes from dead hostiles, but the runtime engine entirely omits the interaction hitbox layer, leaving vital resources uncollectable in "Restored Land" mode.
 * 👉 [Open Bug Report](./Dying-Light-The-Beast-GhostHit-Fixer-JIRA-011.md)
 
