@@ -12,7 +12,7 @@
 
 ## Details
 * **Title:** [Progression/Easter-Egg] [Hit-Registration] High-frequency SMG damage overflow causes total invulnerability on Town Hall Crest assets, blocking "The Breslau Blade" unlock.
-* **Severity:** Major
+* **Severity:** Medium
 * **Reproducibility:** 100% / Verified across multiple Cold Starts on all 9 assets.
 
 ## Preconditions
