@@ -12,7 +12,7 @@
 
 ## Details
 * **Title:** [Quest-Logic] [UI-Regression] AI-driven courtyard(gym) door manipulation triggers asynchronous Quest State Machine desynchronization, forcing HUD into a generic Area Tracker state during "School's Out" Main Quest.
-* **Severity:** Medium
+* **Severity:** Major
 * **Reproducibility:** 100% / Persistent UI logic regression verified via structural sequence bypass.
 
 ## Preconditions
