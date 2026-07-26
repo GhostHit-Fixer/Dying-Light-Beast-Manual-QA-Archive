@@ -13,7 +13,7 @@
 
 ## Details
 * **Title:** [AI/Behavior] [Combat-Collision] Total State Machine paralysis and damage invulnerability on Military Encounter Entities during "Secrets in the Air" Main Quest phase.
-* **Severity:** High
+* **Severity:** High / Major
 * **Reproducibility:** 80% / Persistent high-rate regression verified across multiple cold starts on NG8+/NG9+ profiles.
 
 ## Preconditions
