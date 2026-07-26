@@ -12,7 +12,7 @@
 
 ## Details
 * **Title:** [Physics/Collision] [Invisible Wall] Severe invisible hitbox blocking bullet registration at the Church basement archway entrance.
-* **Severity:** Major / High (Combat Core Disruption)
+* **Severity:** Major (Combat Core Disruption)
 * **Reproducibility:** 100% (3/3 consecutive test cycles verified)
 
 ## Preconditions
