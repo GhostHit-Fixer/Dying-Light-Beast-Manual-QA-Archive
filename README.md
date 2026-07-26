@@ -1,6 +1,11 @@
 # Dying Light: The Beast — Manual QA Case Study Archive
 
 Official repository for standalone laboratory testing, engine-level regression, and systematic JIRA-compliant bug documentation for *Dying Light: The Beast* (v1.6.0).
+---
+
+### 🎬 Video Proofs & Attachments
+> ⚠️ **File Size Note:** Due to GitHub's file size limits for individual markdown attachments, all un-cut, frame-verified video proofs are hosted centrally. You can download and review the raw footage for each specific bug report here:
+> 👉 **[Direct Link to Video Proofs / Release Assets](https://github.com/GhostHit-Fixer/Dying-Light-Beast-Manual-QA-Archive/releases/tag/Proofs)**
 
 ---
 
