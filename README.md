@@ -13,7 +13,7 @@ Official repository for standalone laboratory testing, engine-level regression, 
 All test cycles were executed on a standardized, min-spec hardware configuration to monitor resource constraints and low-spec engine boundaries:
 * **OS:** Windows 10 Enterprise 64-bit (Build 19044.1566)
 * **CPU:** AMD FX(tm)-6300 Six-Core Processor (~3.5GHz)
-* **GPU:** NVIDIA GeForce GTX 1050 2GB DDR3 RAM (Driver: 31.0.15.3118)
+* **GPU:** NVIDIA GeForce GTX 1050 2GB DDR5 RAM (Driver: 31.0.15.3118)
 * **Environment:** Standalone, Offline Mode (Air-Gapped Workstation)
 * **Graphics Profile:** Min-Spec Custom (TAA Enabled, Texture Quality: Low)
 
