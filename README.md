@@ -126,6 +126,5 @@ The remaining reports cover edge-case cosmetics clipping, input latency on speci
 * **[JIRA-008]** — *Vendor UI input latency and calculation loops during craftpart resource bulk purchases.*
 
 ---
-The fix is on the house. :)
 
 **GhostHit_Fixer™**
